@@ -6,6 +6,7 @@
 3. [Results](#results)
 4. [Licensing, Authors](#licensing)
 5. [Instructions](#instructions)
+6. [Conclusion and Areas of Improvement](#conclusion)
 
 ## Summary and Motivation <a name="installation"></a>
 This is made by Food 101 dataset in which there are 101 categories of food are avaliable. This dataset contain 101000 image including train and test. You can download from here https://www.vision.ee.ethz.ch/datasets_extra/food-101/ .I make model using this dataset with 80% accuracy on validation data and 72% accuracy on test data  using Inception v3 neural network made by Google.</br>
@@ -46,5 +47,10 @@ How to use this :
 1. Download the model https://drive.google.com/file/d/1zAMm8Od_bgg678CMxqT41DHHTbjTD_4_/view?usp=sharing 
 2. Download the repositry open up cal_recommd_food for first part change the path of model in both python file
 3. Open up the restaur_recomnd_food run both fod_recmond_dbase , store_order_signup file in same order and change the path of model in these  files
+## Conclusion and Areas of Improvement:<a name="conclusion"></a>
+1. So I conclude that using this dataset we can find many result but they are limited to 101 categories of food
+2. We can improve by detecting multiple food at a time in picture or if it is possible to judge more or less oil in food and size of dishes than It will give us excellent results
+3. If we able to eliminate the face from background of live image and mostly focus on food image than it will be become a better recommender system
+4. Last there is always a scope of making a better model I only use 10 epochs with batch size 16 as  I limited to resources of google colab you can use whatever platform with more epochs and better neural network with best hyperparameters  
 
 
