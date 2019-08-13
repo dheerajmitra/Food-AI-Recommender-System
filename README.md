@@ -39,8 +39,7 @@ There are two main foleders:
 
 ## Licensing, Authors<a name="licensing"></a>
 
-Credits must be given to the company who created Food 101 dataset and my mentor Saurabh Bhardwaj(https://www.linkedin.com/in/saurabh-bhardwaj-b97a1539/) who provide me to guidence in this project 
-
+Credits must be given to the company who created Food 101 dataset and Udacity
 ## Instructions:<a name="instructions"></a>
 for using this you have a better web camera and You should be in good light and also ur face is distinguish from food u having and This works only on 101 Food categories
 How to use this :
